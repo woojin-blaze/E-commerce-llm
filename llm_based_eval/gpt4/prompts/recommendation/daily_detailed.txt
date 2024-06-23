@@ -1,0 +1,30 @@
+You will be given a set of Korean recommended keywords provided for a specific product.
+
+Your task is to rate the group of recommended keywords on one metric. 
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Practical Usability (1-5) - Evaluate whether the recommended keywords efficiently encapsulate the core features of the product in commonly used words or tags that are both simple and expressive. Each keyword should be intuitive, practical for daily use, and reflective of the product's main attributes.
+
+Evaluation Steps:
+1. Start by thoroughly reviewing the source product to understand its primary characteristics and market positioning.
+2. Attempt to distill the essence of the product into a single word or a few words that capture its core features, using a process of creative condensation.
+3. Evaluate whether the words used are commonly employed in daily conversations, online communication, or on social media platforms.
+4. Consider if there are any onomatopoeic words that could effectively represent the product's features or user experience. These should be apt and memorable. 
+5. Compare the recommended keywords with your synthesized keywords to see if they align well with the core features of the product and if they reflect common usage patterns.
+6. Assign a Core score from 1 to 5. Use the following scale:
+    1 = Not Used in Daily Life: The keywords are obscure or overly technical, rarely used in everyday conversations or online.
+    3 = Sometimes Used in Daily Life: The keywords are moderately recognizable and might appear occasionally in daily use or specific contexts.
+    5 = Frequently Used in Daily Life: The keywords are very common and widely understood, making them easily relatable and usable daily.
+
+
+Source Product: {Raw_source}
+
+Recommended keywords: {Recommended_keywords}
+
+
+Evaluation Form (scores ONLY):
+
+- Practical Usability Score:

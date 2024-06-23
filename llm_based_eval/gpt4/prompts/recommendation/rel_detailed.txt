@@ -1,0 +1,30 @@
+You will be given a set of Korean recommended keywords provided for a specific product.
+
+Your task is to rate the group of recommended keywords on one metric. 
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Relevance (1-5) - Assess how effectively the recommended keywords reflect and highlight key aspects of the product. Consider whether the keywords share a meaningful connection with the raw product.
+
+Evaluation Steps:
+1. Begin by carefully reviewing the source product name. Understand its meaning, structure, and inherent implications.
+2. Identify the main features or attributes of the product, such as its functionality, target audience, physical characteristics, and any unique selling points.
+3. Generate ideas by considering potential synonyms, alternatives, and related phrases that align with the product's attributes. This step should expand the keyword set to encompass broader yet relevant terms.
+4. Consider usage scenarios that reflect on situations in which the product would be needed or preferred.
+5. Assign a relevance score from 1 to 5. Use the following scale:
+    1 = Not Relevant: The keywords have little or no connection to the source product, features, or usage scenarios.
+    3 = Moderately Relevant: The keywords relate to the product but may miss some important aspects or fail to capture the product's essence fully.
+    5 = Highly Relevant: The keywords excellently reflect and emphasize the source product, features, and potential usage scenarios, offering a comprehensive and accurate depiction.   
+
+
+Source Product: {Raw_source}
+
+
+Recommended keywords: {Recommended_keywords}
+
+
+Evaluation Form (scores ONLY):
+
+- Relevance Score:

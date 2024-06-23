@@ -1,0 +1,29 @@
+You will be given a set of Korean recommended keywords provided for a specific product.
+
+Your task is to rate the group of recommended keywords on one metric. 
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Trendiness (1-5) - Evaluate whether the recommended keywords are aligned with current trends, incorporate popular memes, and have a high potential for searchability and viral success on social media platforms.
+
+Evaluation Steps:
+1. Review the source product name carefully.
+2. Identify unique selling points that differentiate this product from its competitors. This could include innovative features, novel applications, or specific benefits that resonate with current market trends.
+3. Examine the recommended keywords for their relevance to popular memes and trending topics. Consider whether these keywords tap into cultural, technological, or social movements that are currently popular.
+4. Assess the potential of each recommended keyword to gain traction on social media platforms. Consider factors such as hashtag popularity, frequency of use in similar contexts, and the keyword’s appeal to influencer and content creator communities.
+5. Assign a Trendiness score from 1 to 5. Use the following scale:
+    1 = Not Trendy: The keywords do not reflect current trends or popular memes and are unlikely to be searchable or viral on social media.
+    3 = Moderately Trendy: The keywords show some alignment with current trends or memes but lack strong potential to become highly searchable or viral.
+    5 = Highly Trendy: The keywords are well-aligned with current trends and popular memes, indicating a high potential for searchability and viral success on social media.
+
+
+Source Product: {Raw_source}
+
+Recommended keywords: {Recommended_keywords}
+
+
+Evaluation Form (scores ONLY):
+
+- Trendiness Score:

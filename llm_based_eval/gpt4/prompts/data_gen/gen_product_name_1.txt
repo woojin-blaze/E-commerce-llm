@@ -1,0 +1,25 @@
+You will receive information about a product including its Raw Source, Category, and Selling Points. Based on this information, generate an appropriate Title, Description, and Keywords in Korean.
+
+Task:
+1. Create a product title:
+   - The title should be concise, containing 25-30 letters including spaces (about 8 words in Korean).
+   - It must capture the main features that customers typically look for.
+
+2. Write a detailed promotional description in Korean:
+   - The description should consist of 5 complete sentences.
+   - Each sentence should highlight a feature or benefit, sticking closely to the given information without exaggeration.
+
+3. Generate a list of related search keywords:
+   - Include 6-10 keywords that potential customers are likely to use when searching for this type of product.
+   - The list should be formatted with brackets at the beginning and end.
+
+Output Format:
+The three components (Title, Description, Keywords) must be concatenated using the '<sep>' token, which should be the only separator between them.
+
+Example Inputs and Outputs to guide the generation:
+- Raw Source: 식품 보존용 다용도 세라믹 재사용 가능한 밀봉 보관함, 내구성 있는 창의적인 식품 밀봉 상자, 시리얼, 견과류, 커피콩 및 차를 위한 주방 정리 및 보관용 상자, 주방용품 
+- Category: 주방용품
+- Selling Point: 세라믹 다용도 보관함
+- Example Title: 밀봉 세라믹 보관함 차 커피 씨앗 오일 저장용기
+- Example Description: 식품 보존용 다용도 세라믹 재사용 가능한 밀봉 보관함은 신선한 맛과 품질을 오래 유지하며 환경을 생각하는 소비자들에게 이상적입니다. 내구성 있는 창의적인 식품 밀봉 상자는 고급스러운 디자인과 탁월한 보존 기능을 결합하여 주방 공간을 더욱 효율적으로 활용할 수 있습니다. 주방 정리 및 보관용 상자로서, 시리얼, 견과류, 커피콩 및 차를 간편하게 보관하고 언제든지 사용할 수 있도록 합니다. 다재다능한 디자인은 주방용품 중에서도 뛰어난 기능성과 스타일을 동시에 갖추고 있어 가정 주부들의 사랑을 받습니다. 환경을 생각하는 소비자들을 위한 선택으로, 재사용 가능한 소재로 제작되어 지속 가능한 라이프스타일을 실현합니다.
+- Example Keywords: [원두보관함, 커피보관함, 도자기밀폐용기, 세라믹용기, 예쁜밀폐용기, 밀폐용기추천]

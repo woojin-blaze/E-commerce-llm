@@ -1,0 +1,30 @@
+You will be given one Korean detailed description written for a product.
+
+Your task is to rate the detailed description on one metric. 
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Relevance (1-5) - This measures the effectiveness with which the detailed description captures and presents essential content from the source. The description should not only include crucial information derived from the product name but also provide additional context and detail relevant to the product’s use and features.
+
+Evaluation Steps:
+
+1. Carefully read the source product description to fully understand its features and intended use.
+2. Compare the detailed description to the source product and identify the main feature of the product. 
+3. Examine the detailed description for the presence of crucial information and additional relevant details that enhance understanding of the product’s use and benefits.
+4. Ensure that the detailed description is consistent with the source while providing an appropriate level of detail. Look for comprehensive descriptions that include use cases, benefits, and potential applications, ensuring these are accurately portrayed. 
+5. Assign a relevance score from 1 to 5. Use the following scale:
+    1 = Not Relevant: The description fails to align with the source product’s features or includes details that does not match to the situation the product is needed.
+    3 = Moderately Relevant: The description includes important features from the source product but may miss some details or include minor inaccuracies.
+    5 = Highly Relevant: The description thoroughly and accurately represents the main features of the source product, providing a detailed and correct depiction including use cases and other relevant information.
+
+
+Source Product: {Raw_source}
+
+Detailed Description: {Catch_phrase}
+
+
+Evaluation Form (scores ONLY):
+
+- Relevance:

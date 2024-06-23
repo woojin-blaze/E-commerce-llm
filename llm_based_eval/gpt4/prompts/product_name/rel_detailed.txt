@@ -1,0 +1,31 @@
+You will be given one korean product name written for the raw source.
+
+Your task is to rate the product name on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Relevance (1-5) - Assess how effectively the product name reflects crucial information from the source product. The product name should encapsulate the essential elements of the source, emphasizing accuracy and pertinence.
+
+Evaluation Steps:
+
+1. Carefully read both the source product name and the product name to understand the context and content fully.
+2. Compare the product name to the source product and identify the main feature of the product. 
+3. Evaluate the extent to which the product name includes important and relevant information from the source product.
+4. Verify that the product name does not contain inconsistencies or information not present in the source product, ensuring that the meaning remains unchanged.
+5. Assign a relevance score from 1 to 5. Use the following scale:
+    1 = Not Relevant: The product name does not reflect the main features of the source product or includes misleading information.
+    3 = Moderately Relevant: The product name includes key features of the source product but may contain minor inaccuracies or omit some relevant details.
+    5 = Highly Relevant: The product name accurately represents the main features of the source product without any irrelevant or misleading information.
+
+
+Source Product: {Raw_source}
+
+Product Name: {Product_name}
+
+
+Evaluation Form (scores ONLY):
+
+- Relevance:

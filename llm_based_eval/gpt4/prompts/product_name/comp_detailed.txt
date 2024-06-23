@@ -1,0 +1,29 @@
+You will be given one korean product name written for the raw source.
+
+Your task is to rate the product name on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Completeness (1-5) - Assess the clarity and comprehensibility of the product name. A complete product name should be easily understandable, making sense at first glance.
+
+
+Evaluation Steps:
+
+1. Read the product name carefully presented to you.
+2. Check if the product name uses appropriate words and if there is proper spacing between words.
+3. Identify any redundant information or unnecessary repetition of words, which could detract from the name's clarity.
+4. Count the characters in the product name to ensure the total does not exceed 27, including spaces.
+5. Assign a completeness score from 1 to 5.
+
+
+Source Product: {{Raw_source}}
+
+Product Name: {{Product_name}}
+
+
+Evaluation Form (scores ONLY):
+
+- Completeness Score:

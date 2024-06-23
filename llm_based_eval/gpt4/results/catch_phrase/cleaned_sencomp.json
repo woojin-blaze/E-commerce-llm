@@ -1,0 +1,12 @@
+[
+    {
+        "index": 1,
+        "raw_source": "크리스마스 부직포 장식",
+        "product_name_kor": "부직포 2023 크리스마스 도어 링 장식 화환 수공 DIY 소재 세트 어린이 장식 장면 배치",
+        "detailed_description": "부직포 2023 크리스마스 도어 링 장식 화환 수공 DIY 소재 세트 어린이 장식 장면 배치은 크리스마스 분위기를 가득 느낄 수 있는 아이들을 위한 수공 DIY 소재 세트입니다. 이 제품은 다양한 크리스마스 장식을 만들어 어린이들이 자신만의 장식을 만들 수 있게 도와줍니다. 부직포 소재로 만들어진 화환과 도어 링은 화려하고 아기자기한 디자인으로 크리스마스 분위기를 물씬 풍기게 합니다. 어린이들은 이 소재 세트를 활용하여 자신만의 장면을 배치하고 직접 장식을 꾸밀 수 있어 창의력과 손놀림 능력을 향상시킬 수 있습니다.",
+        "related_search_keywords": "[크리스마스 도어장식, 크리스마스 수공소재, 크리스마스 어린이 장식, 크리스마스 DIY 소재, 크리스마스 화환 제작, 크리스마스 수공놀이, 어린이 크리스마스 장식, 부직포 크리스마스 소재]",
+        "prompt": "You will be given one Korean promotional catch phrase written for a product.\n\nYour task is to rate the promotional catch phrase on one metric.\n\nPlease make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.\n\nEvaluation Criteria:\n\nSentence Completeness (1-5) - Evaluates whether the catch phrase is logically complete and understandable. A high score indicates the phrase is clear, makes sense, and effectively communicates the product’s main appeal without causing confusion.\n\nEvaluation Steps:\n\n1. Read the promotional catch phrase carefully.\n2. Evaluate if the phrase uses correct words and forms a complete, coherent sentence. \n3. Deduct points for redundant information or repetitive use of the same word. \n4. Assign a sentence completeness score from 1 to 5.\n\n\nExample:\n\n\nSource Product:\n\n크리스마스 부직포 장식\n\nCatch Phrase:\n\n부직포 2023 크리스마스 도어 링 장식 화환 수공 DIY 소재 세트 어린이 장식 장면 배치은 크리스마스 분위기를 가득 느낄 수 있는 아이들을 위한 수공 DIY 소재 세트입니다. 이 제품은 다양한 크리스마스 장식을 만들어 어린이들이 자신만의 장식을 만들 수 있게 도와줍니다. 부직포 소재로 만들어진 화환과 도어 링은 화려하고 아기자기한 디자인으로 크리스마스 분위기를 물씬 풍기게 합니다. 어린이들은 이 소재 세트를 활용하여 자신만의 장면을 배치하고 직접 장식을 꾸밀 수 있어 창의력과 손놀림 능력을 향상시킬 수 있습니다.\n\n\nEvaluation Form (scores ONLY):\n\n- Sentence Completeness:",
+        "average_score_pn": 3.5875,
+        "average_score_cp": 4.816666666666666
+    }
+]

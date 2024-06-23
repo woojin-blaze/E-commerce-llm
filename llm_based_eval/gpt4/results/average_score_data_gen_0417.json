@@ -1,0 +1,18 @@
+{
+    "individual_scores": {
+        "score_pn_comp_detailed": 3.939028591112642,
+        "score_pn_rel_detailed": 3.8941532258064515,
+        "score_cp_rel_detailed": 3.3333025404157044,
+        "score_cp_harm_detailed": 4.69332985930172,
+        "score_rk_rel_detailed": 3.57125,
+        "score_rk_trend_detailed": 3.02256351915055,
+        "score_rk_comp_detailed": 3.7628655732014233,
+        "score_cp_sen_comp_detailed": 3.565488380375746
+    },
+    "category_averages": {
+        "pn": 3.916590908459547,
+        "cp": 3.864040260031057,
+        "rk": 3.4522263641173243
+    },
+    "total_average": 3.744285844202643
+}

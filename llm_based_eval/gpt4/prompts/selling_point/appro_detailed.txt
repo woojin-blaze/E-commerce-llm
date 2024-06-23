@@ -1,0 +1,28 @@
+You are provided with the name of a Korean product ("Source Product") and a selling point for that product ("Selling Point"). 
+
+Your task is to rate the how appriopriate the selling point is based on one metric. 
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Appropriateness (1-5): Evaluate whether the selling point effectively highlights a unique feature or characteristic of the source product that is likely to appeal to consumers.
+
+
+Evaluation Steps:
+
+1. Carefully read the Source Product.
+2. Identify the unique features or characteristics of the product.
+3. Think of what aspects of the product will be loved by people.
+4. Assess how well the selling point you've been given matches the product features you consider most appealing.
+5. Assign a Appropriateness score ranging from 1 to 5.
+
+
+Source Product: {{Raw_source}}
+
+Selling Point: {{Selling_point}}
+
+
+Evaluation Form (scores ONLY):
+
+Appropriateness:

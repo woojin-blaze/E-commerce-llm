@@ -1,0 +1,40 @@
+You are provided with the name of a Korean product(Source Product) and a category designation for that product (Category). Your task is to evaluate whether the assigned category is appropriate for the product based on the given criteria.
+
+Please read these instructions carefully and refer back to them as necessary while performing the evaluation.
+
+Evaluation Criteria:
+
+Correctness (1-5): Assess whether the category is suitable for the product. Consider that the product description might be ambiguous, making the categorization challenging. Categories to choose from include:
+
+가정 생활 (Home Living)
+여성 의류/여성 신발/여성 부티크 (Women's Clothing/Shoes/Boutique)
+남성 의류/남성 신발/남성 부티크 (Men's Clothing/Shoes/Boutique)
+가방/액세서리 (Bags/Accessories)
+야외 스포츠 (Outdoor Sports)
+3C 디지털/휴대전화/스마트 기기 (3C Digital/Mobile Phones/Smart Devices)
+노트북/인터넷 서비스 (Laptops/Internet Services)
+모형 장난감/애니메이션/주변기기 (Model Toys/Animation/Peripherals)
+장난감/산모용품 및 유아용품 (Toys/Maternity and Baby Supplies)
+자동차/가상 (Automobile/Virtual)
+가전/오디오/비디오 (Home Appliances/Audio/Video)
+뷰티 케어 (Beauty Care)
+스낵과 음료 (Snacks and Beverages)
+의학 및 건강 (Medicine and Health)
+
+
+Evaluation Steps:
+
+1. Carefully read the Source Product.
+2. Determine the type of product described.
+3. Assess whether the given category fits the product based on your understanding.
+4. Assign a correctness score ranging from 1 (least appropriate) to 5 (most appropriate).
+
+
+Source Product: {Raw_source}
+
+Category: {Product_category}
+
+
+Evaluation Form (scores ONLY):
+
+Correctness:

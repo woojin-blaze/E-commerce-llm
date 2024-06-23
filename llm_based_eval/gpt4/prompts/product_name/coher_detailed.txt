@@ -1,0 +1,31 @@
+You will be given one korean product name written for the raw source.
+
+Your task is to rate the product name on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Coherence (1-5) - Rate the coherence of the product name, which includes its clarity, comprehensibility, and logical consistency among the words used.
+
+Evaluation Steps:
+
+1. Read the product name thoroughly to grasp its meaning and structure.
+2. Evaluate if the product name is immediately understandable without additional context.
+3. Determine if the words in the product name support each other coherently and maintain a consistent theme or concept.
+4. Evaluate the overall flow to ensure that the words fit together in a natural and logical manner.
+5. Assign a coherence score from 1 to 5. Use the following scale:
+    1 = Incoherent: The product name is difficult to understand; its meaning is unclear or confusing.
+    3 = Somewhat Coherent: The product name is understandable to some extent but may require additional interpretation; it may include words that do not seem entirely relevant or consistent.
+    5 = Highly Coherent: The product name is clear and straightforward, with all words complementing each other and contributing positively to the overall comprehension.
+
+
+Source Product: {Raw_source}
+
+Product Name: {Product_name}
+
+
+Evaluation Form (scores ONLY):
+
+- Coherence:

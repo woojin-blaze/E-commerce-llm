@@ -1,0 +1,31 @@
+You will be given a set of Korean recommended keywords provided for a specific product.
+
+Your task is to rate the group of recommended keywords on one metric. 
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Completeness (1-5) - Assess the clarity and comprehensibility of the recommended keywords. A complete keywords should be easily understandable, making sense at first glance.
+
+
+Evaluation Steps:
+
+1. Carefully examine each keyword provided to you.
+2. Ensure that the words in each keyword are complete and not cut off in any way. 
+3. Count the number of keywords to ensure there are between 8 to 12.
+4. Each keyword should be whole and not abruptly abbreviated unless it uses commonly understood and widely recognized abbreviations.
+5. Verify that the keywords use appropriate language and terminologies that are specific and relevant to the subject matter.
+6. Assign a completeness score from 1 to 5.
+
+
+Source Product: {{Raw_source}}
+
+
+Recommended keywords: {{Recommended_keywords}}
+
+
+Evaluation Form (scores ONLY):
+
+- Completeness Score:

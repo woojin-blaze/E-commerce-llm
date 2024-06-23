@@ -1,0 +1,36 @@
+Data Augmentation Task Instructions
+
+You will be provided with the name of a Korean product along with a promotional catch phrase designed for that product.
+
+Objective:
+Your task is to creatively generate new examples that mimic the stylistic approach of the source example. Each new example should consist of a unique product name and a corresponding promotional catch phrase. 
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Generation steps:
+
+1. Decide what kind of product you want to make.
+2. Invent a unique name for the product in Korean. 
+3. Aim for diversity in your product ideas. The new product should distinctly deviate from the source material in terms of product category or utility.
+4. Ensure that the tone, style, and structure of your product name align with the example provided, even though the product category will differ.
+5. Generate promotional catch phrase for the product name in Korean.
+6. Your promotional catch phrase should be a complete sentence.
+
+
+Example:
+
+
+Source Product:
+
+{{Product_name}}
+
+Catch Phrase:
+
+{{Catch_phrase}}
+
+
+Generated Example :
+
+New Product Name: Your innovative product name here.
+Promotional Catch Phrase: Your crafted promotional catch phrase here, highlighting the product's appeal or functionality.

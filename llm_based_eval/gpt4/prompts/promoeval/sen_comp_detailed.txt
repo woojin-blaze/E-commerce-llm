@@ -1,0 +1,28 @@
+You will be given one Korean promotional detailed description written for a product.
+
+Your task is to rate the promotional detailed description on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Sentence Completeness (1-5) - Assess the logical completeness and understandability of the promotional detailed description. The focus is on evaluating whether the description is comprehensive, well-structured, and free from redundant expressions or repetition.
+Evaluation Steps:
+
+1. Read the promotional detailed description carefully.
+2. Evaluate whether the description uses correct words and forms complete, coherent sentences. Check for grammatical accuracy and the appropriate use of industry-specific terminology.
+3. A well-crafted description should convey essential information concisely without unnecessary repetition.
+4. Assign a sentence completeness score from 1 to 5. Use the following scale:
+    1 = Poorly Constructed: The description contains multiple grammatical errors, incomplete thoughts, and lacks coherence.
+    3 = Adequately Constructed: The description is generally understandable but may contain some minor grammatical errors or unnecessary repetitions.
+    5 = Excellently Constructed: The description is logically complete, grammatically accurate, and free from redundancy, providing a clear and comprehensive understanding of the product.
+
+
+Source Product: {Raw_source}
+
+Detailed Description: {Catch_phrase}
+
+
+Evaluation Form (scores ONLY):
+
+- Sentence Completeness:

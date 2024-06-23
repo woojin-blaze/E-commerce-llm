@@ -1,0 +1,30 @@
+You will be given one korean product name written for the raw source.
+
+Your task is to rate the product name on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Searchable (1-5) - To assess how effectively a product name can be searched online. This involves the presence of key descriptors such as brand names, descriptive adjectives (e.g., '귀여운' [cute], '블루' [blue]), or relevant usage contexts (e.g., '피곤할 때' [when tired]) that enhance discoverability.
+
+Evaluation Steps:
+
+1. Read the product name thoroughly to understand its meaning, structure, and the elements it contains.
+2. Evaluate if the product name effectively describes key attributes like color, size, texture, or the primary function of the product. A well-described product name aids in setting accurate search expectations.
+3. Determine the searchability of the product name by checking for the inclusion of specific keywords that explain situations or contexts where the product is useful. For instance, the word '피곤할 때' enhances the search relevance for a product like '비타민' [vitamin].
+4. Assign a searchable score from 1 to 5. Use the following scale:
+    1 = Hardly Searchable : The product name lacks descriptive elements and contextual keywords, making it difficult to find online.
+    3 = Moderately Searchable: The product name includes some descriptive elements or contextual keywords, but it lacks optimal detailing that fully explains the product.
+    5 = Highly Searchable : The product name prominently features essential descriptive details and contextual keywords, making it easily searchable.
+
+
+Source Product: {Raw_source}
+
+Product Name: {Product_name}
+
+
+Evaluation Form (scores ONLY):
+
+- Searchable:
